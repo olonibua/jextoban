@@ -73,7 +73,7 @@ const Menu = () => {
               text-white p-2 h-8 sm:h-16 w-8 sm:w-16 hover:text-gray-700 rounded-full"
             />
           </div>
-          <div className="grid sm:flex mt-10 border-b border-gray-400">
+          <div className="grid sm:flex ">
             <ul className="TT sm:my-3 text-[35px] sm:text-[62px] flex-[28%] pt-10">
               <li className="hover:text-[#929292] transition duration-200 ease-in-out cursor-pointer">
                 Expertise
